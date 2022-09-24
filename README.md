@@ -13,19 +13,13 @@
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/></a>&nbsp 
 </p>
 
-<div align="center" style="text-align:center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinseok-moon&repo=jinseok-moon.github.io)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jinseok-moon&repo=KFCNet)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- <div align="center" style="text-align:center">
 
 [![Moon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinseok-moon)](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinseok-moon&layout=compact&exclude_repo=jinseok-moon.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+</div> -->
 
 <p  align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseok-moon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
